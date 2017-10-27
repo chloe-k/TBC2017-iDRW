@@ -1,0 +1,45 @@
+A	B	sim
+VEGF signaling pathway	Focal adhesion	0.173076923077
+VEGF signaling pathway	Neurotrophin signaling pathway	0.21875
+VEGF signaling pathway	T cell receptor signaling pathway	0.189189189189
+VEGF signaling pathway	Glioma	0.309523809524
+VEGF signaling pathway	Epstein-Barr virus infection	0.108108108108
+Pancreatic secretion	Morphine addiction	0.155555555556
+Asthma	Leishmaniasis	0.137931034483
+Focal adhesion	VEGF signaling pathway	0.173076923077
+Focal adhesion	Neurotrophin signaling pathway	0.152
+Focal adhesion	T cell receptor signaling pathway	0.149253731343
+Focal adhesion	Glioma	0.174757281553
+Cyanoamino acid metabolism	One carbon pool by folate	0.333333333333
+Neurotrophin signaling pathway	VEGF signaling pathway	0.21875
+Neurotrophin signaling pathway	Focal adhesion	0.152
+Neurotrophin signaling pathway	T cell receptor signaling pathway	0.170212765957
+Neurotrophin signaling pathway	Glioma	0.262295081967
+Neurotrophin signaling pathway	Epstein-Barr virus infection	0.130434782609
+Morphine addiction	Pancreatic secretion	0.155555555556
+Prion diseases	Pertussis	0.129032258065
+Herpes simplex infection	Pertussis	0.125
+Herpes simplex infection	Leishmaniasis	0.274509803922
+Herpes simplex infection	Epstein-Barr virus infection	0.16049382716
+T cell receptor signaling pathway	VEGF signaling pathway	0.189189189189
+T cell receptor signaling pathway	Focal adhesion	0.149253731343
+T cell receptor signaling pathway	Neurotrophin signaling pathway	0.170212765957
+T cell receptor signaling pathway	Glioma	0.12987012987
+T cell receptor signaling pathway	Epstein-Barr virus infection	0.128712871287
+Pertussis	Prion diseases	0.129032258065
+Pertussis	Herpes simplex infection	0.125
+Pertussis	Leishmaniasis	0.230769230769
+Leishmaniasis	Asthma	0.137931034483
+Leishmaniasis	Herpes simplex infection	0.274509803922
+Leishmaniasis	Pertussis	0.230769230769
+Glioma	VEGF signaling pathway	0.309523809524
+Glioma	Focal adhesion	0.174757281553
+Glioma	Neurotrophin signaling pathway	0.262295081967
+Glioma	T cell receptor signaling pathway	0.12987012987
+Glioma	Epstein-Barr virus infection	0.109589041096
+One carbon pool by folate	Cyanoamino acid metabolism	0.333333333333
+Epstein-Barr virus infection	VEGF signaling pathway	0.108108108108
+Epstein-Barr virus infection	Neurotrophin signaling pathway	0.130434782609
+Epstein-Barr virus infection	Herpes simplex infection	0.16049382716
+Epstein-Barr virus infection	T cell receptor signaling pathway	0.128712871287
+Epstein-Barr virus infection	Glioma	0.109589041096

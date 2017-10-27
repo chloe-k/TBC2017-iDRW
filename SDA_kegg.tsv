@@ -1,0 +1,213 @@
+gene	kegg
+CD38	Pancreatic secretion
+GRHPR	Pyruvate metabolism
+CEL	Pancreatic secretion
+COL11A1	Focal adhesion
+PPP3R1	T cell receptor signaling pathway
+JUN	Focal adhesion,T cell receptor signaling pathway,Neurotrophin signaling pathway
+SH2B3	Neurotrophin signaling pathway
+IKBKB	T cell receptor signaling pathway,Neurotrophin signaling pathway
+AKT1	Neurotrophin signaling pathway,T cell receptor signaling pathway,Glioma,Focal adhesion
+AKT3	Neurotrophin signaling pathway,T cell receptor signaling pathway,Glioma,Focal adhesion
+ARAF	Glioma
+RAPGEF1	Focal adhesion,Neurotrophin signaling pathway
+BDNF	Neurotrophin signaling pathway
+CD247	T cell receptor signaling pathway
+MYL9	Focal adhesion
+TAT	Tropane, piperidine and pyridine alkaloid biosynthesis
+MAP3K8	T cell receptor signaling pathway
+FADS2	alpha-Linolenic acid metabolism,PPAR signaling pathway
+CALM2	Neurotrophin signaling pathway,Glioma
+COL11A2	Focal adhesion
+MAP3K3	Neurotrophin signaling pathway
+PIK3CD	Neurotrophin signaling pathway,T cell receptor signaling pathway,Glioma,Focal adhesion
+CAMK4	Neurotrophin signaling pathway
+PIK3CG	Neurotrophin signaling pathway,T cell receptor signaling pathway,Glioma,Focal adhesion
+PLA2G6	alpha-Linolenic acid metabolism
+PLA2G5	Pancreatic secretion,alpha-Linolenic acid metabolism
+RELN	Focal adhesion
+IRAK3	Neurotrophin signaling pathway
+SHC4	Focal adhesion,Neurotrophin signaling pathway,Glioma
+AQP7	PPAR signaling pathway
+CD28	T cell receptor signaling pathway
+DIAPH1	Focal adhesion
+SHC2	Focal adhesion,Neurotrophin signaling pathway,Glioma
+ATP1B3	Pancreatic secretion
+CAMK2B	Neurotrophin signaling pathway,Glioma
+ATP1B1	Pancreatic secretion
+PER2	Circadian rhythm - fly
+FASLG	Neurotrophin signaling pathway
+ATP2B1	Pancreatic secretion
+ATP2B2	Pancreatic secretion
+SHMT2	One carbon pool by folate
+SHMT1	One carbon pool by folate
+MYL12B	Focal adhesion
+ADCY4	Pancreatic secretion
+ADCY6	Pancreatic secretion
+FN1	Focal adhesion
+ACYP2	Pyruvate metabolism
+ADCY3	Pancreatic secretion
+MAGED1	Neurotrophin signaling pathway
+ACSL1	PPAR signaling pathway
+C1QC	Prion diseases
+ACSL4	PPAR signaling pathway
+ACSL5	PPAR signaling pathway
+PTEN	Focal adhesion,Glioma
+ATF4	Neurotrophin signaling pathway
+LAT	T cell receptor signaling pathway
+PAK6	Focal adhesion,T cell receptor signaling pathway
+CD3D	T cell receptor signaling pathway
+PAK1	Focal adhesion,T cell receptor signaling pathway
+PAK2	Focal adhesion,T cell receptor signaling pathway
+CD3G	T cell receptor signaling pathway
+NFATC2	T cell receptor signaling pathway
+RASGRP1	T cell receptor signaling pathway
+ATP2A1	Pancreatic secretion
+CCL5	Prion diseases
+NFKBIB	T cell receptor signaling pathway,Neurotrophin signaling pathway
+HRAS	Neurotrophin signaling pathway,T cell receptor signaling pathway,Glioma,Focal adhesion
+NFKBIA	T cell receptor signaling pathway,Neurotrophin signaling pathway
+ITGA4	Focal adhesion
+ITGA5	Focal adhesion
+GAB1	Neurotrophin signaling pathway
+ITGA11	Focal adhesion
+PLA2G1B	Pancreatic secretion,alpha-Linolenic acid metabolism
+CRK	Focal adhesion,Neurotrophin signaling pathway
+STIP1	Prion diseases
+LAMB2	Focal adhesion
+IBSP	Focal adhesion
+SPP1	Focal adhesion
+EGR1	Prion diseases
+TNXB	Focal adhesion
+THBS3	Focal adhesion
+PIK3R5	Neurotrophin signaling pathway,T cell receptor signaling pathway,Glioma,Focal adhesion
+GRAP2	T cell receptor signaling pathway
+PIK3R3	Neurotrophin signaling pathway,T cell receptor signaling pathway,Glioma,Focal adhesion
+IL2	T cell receptor signaling pathway
+FIGF	Focal adhesion
+CTLA4	T cell receptor signaling pathway
+PLCB2	Pancreatic secretion
+IGF1	Focal adhesion,Glioma
+PLCB4	Pancreatic secretion
+FOS	T cell receptor signaling pathway
+COL1A1	Focal adhesion
+PAK4	Focal adhesion,T cell receptor signaling pathway
+VEGFA	Focal adhesion
+COL4A2	Focal adhesion
+COL4A1	Focal adhesion
+LAMC2	Focal adhesion
+ITPR1	Pancreatic secretion
+BCAR1	Focal adhesion
+PDGFC	Focal adhesion
+RPS6KA3	Neurotrophin signaling pathway
+MTHFD1	One carbon pool by folate
+JMJD7-PLA2G4B	alpha-Linolenic acid metabolism
+VAV3	Focal adhesion,T cell receptor signaling pathway
+VAV2	Focal adhesion,T cell receptor signaling pathway
+PPP1CB	Focal adhesion
+CALML5	Neurotrophin signaling pathway,Glioma
+CD3E	T cell receptor signaling pathway
+PRDM4	Neurotrophin signaling pathway
+HLF	Circadian rhythm - fly
+LCK	T cell receptor signaling pathway
+PKM2	Pyruvate metabolism
+CD40LG	T cell receptor signaling pathway
+CLOCK	Circadian rhythm - fly
+ILK	Focal adhesion,PPAR signaling pathway
+RAP1A	Pancreatic secretion,Neurotrophin signaling pathway,Focal adhesion
+CD4	T cell receptor signaling pathway
+RPS6	Ribosome
+PTK2	Focal adhesion
+MAPK11	T cell receptor signaling pathway,Neurotrophin signaling pathway
+ME3	Pyruvate metabolism
+CLCA2	Pancreatic secretion
+IL1A	Prion diseases
+MAP3K5	Neurotrophin signaling pathway
+RAC2	Focal adhesion
+VASP	Focal adhesion
+CAPN2	Focal adhesion
+MTHFD2L	One carbon pool by folate
+CPT1C	PPAR signaling pathway
+MAPK3	T cell receptor signaling pathway,Glioma,Neurotrophin signaling pathway,Focal adhesion,Dorso-ventral axis formation,Prion diseases
+CSNK1E	Circadian rhythm - fly
+MAPK7	Neurotrophin signaling pathway
+C7	Prion diseases
+CDKN1A	Glioma
+C5	Prion diseases
+PPP1R12A	Focal adhesion
+LAMA1	Focal adhesion
+ICOS	T cell receptor signaling pathway
+NTF3	Neurotrophin signaling pathway
+LAMA5	Focal adhesion
+ACACB	Pyruvate metabolism
+MTHFR	One carbon pool by folate
+COMP	Focal adhesion
+MYLK2	Focal adhesion
+RXRB	PPAR signaling pathway
+VTN	Focal adhesion
+COL5A3	Focal adhesion
+CCND2	Focal adhesion
+PLA2G2D	Pancreatic secretion,alpha-Linolenic acid metabolism
+SH2B1	Neurotrophin signaling pathway
+CD8A	T cell receptor signaling pathway
+SLC27A4	PPAR signaling pathway
+CD8B	T cell receptor signaling pathway
+SLC27A1	PPAR signaling pathway
+PTPRC	T cell receptor signaling pathway
+ITK	T cell receptor signaling pathway
+SOS1	Dorso-ventral axis formation,Neurotrophin signaling pathway,T cell receptor signaling pathway,Glioma,Focal adhesion
+MAP2K2	Neurotrophin signaling pathway,T cell receptor signaling pathway,Glioma,Prion diseases
+ALDH2	Pyruvate metabolism
+RIPK2	Neurotrophin signaling pathway
+ATP1A3	Pancreatic secretion
+ATP1A2	Pancreatic secretion
+PRKACB	Prion diseases
+PDCD1	T cell receptor signaling pathway
+CDC42	Focal adhesion,T cell receptor signaling pathway,Neurotrophin signaling pathway
+MTHFD1L	One carbon pool by folate
+BIRC3	Focal adhesion
+LAMA2	Focal adhesion
+BAX	Neurotrophin signaling pathway,Prion diseases
+FOXO3	Neurotrophin signaling pathway
+PLCG2	Neurotrophin signaling pathway,Glioma
+BAD	Focal adhesion,Neurotrophin signaling pathway
+CDKN2A	Glioma
+ITGAV	Focal adhesion
+PRKX	Prion diseases
+PGF	Focal adhesion
+ITPR2	Pancreatic secretion
+ACAA1	alpha-Linolenic acid metabolism,PPAR signaling pathway
+ETS1	Dorso-ventral axis formation
+ZAP70	T cell receptor signaling pathway
+NTRK3	Neurotrophin signaling pathway
+LDHA	Pyruvate metabolism
+MALT1	T cell receptor signaling pathway
+PDGFA	Focal adhesion,Glioma
+PDGFB	Focal adhesion,Glioma
+CPT1B	PPAR signaling pathway
+ITGB5	Focal adhesion
+RAC3	Focal adhesion
+ITGB7	Focal adhesion
+RAC1	Pancreatic secretion,Neurotrophin signaling pathway,Focal adhesion
+PRKCA	Pancreatic secretion,Glioma,Focal adhesion
+CARD11	T cell receptor signaling pathway
+PRKCB	Pancreatic secretion,Glioma,Focal adhesion
+CHRM3	Pancreatic secretion
+PRKCG	Pancreatic secretion,Glioma,Focal adhesion
+TNC	Focal adhesion
+IKBKG	T cell receptor signaling pathway
+LCP2	T cell receptor signaling pathway
+PLA2G4A	alpha-Linolenic acid metabolism
+ACTN1	Focal adhesion
+NGFRAP1	Neurotrophin signaling pathway
+E2F2	Glioma
+ACTN4	Focal adhesion
+ROCK1	Focal adhesion
+NOTCH2	Dorso-ventral axis formation
+KDR	Focal adhesion
+MAP3K14	T cell receptor signaling pathway
+COL6A1	Focal adhesion
+PPP3CA	T cell receptor signaling pathway
+COL6A3	Focal adhesion
+COL6A2	Focal adhesion
+MMP1	PPAR signaling pathway
